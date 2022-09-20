@@ -1,5 +1,10 @@
-*{box-sizing: border-box; font-family: 'Open Sans', sans-serif;}
-[noshow]{display: !important;}
+*{box-sizing: border-box; margin: 0; padding: 0;}
+/*[noshow]{display: !important;}*/
+html {
+	font-size: 100%;
+    min-width: 320px;
+    font-family: 'Montserrat', sans-serif;
+}
 .horiz {display: flex; flex-direction: row;}
 .vert {display: flex; flex-direction: column;}
 .end {display: flex; justify-content: flex-end;}
@@ -12,4 +17,14 @@
 .wrap {flex-wrap: wrap}
 .top-layer {z-index: 1}
 .absolute {position: absolute}
+#header { width: 100%;}
+#footer { width: 100%; position: fixed; bottom: 0;}
 
+@media only screen and (max-width: 960px) {
+}
+
+@media only screen and (max-width: 600px) {
+}
+
+@media only screen and (max-width: 570px) {
+}
