@@ -1,1 +1,1 @@
-console.log("New Sales JObs website")
+console.log("New Sales Jobs website")
