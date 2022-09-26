@@ -1,0 +1,51 @@
+AMY MILLERSFIELD
+
+10987 South Central Dr., Summerville, CA 09876
+
+H: 410-555-1234; W: 410-555-0987; amillersfield@email.com
+
+OBJECTIVE:
+
+Client Server Systems Architect for a high technology firm.
+
+PROFESSIONAL EXPERIENCE:
+
+------------------Systems Engineer------------------
+
+Computer Engineering Corporation, Los Angeles, CA, Present
+
+- Provide systems engineering, software engineering, technical consulting, and marketing services as a member of the Systems Integration Division of a software engineering consulting company.
+
+- Designed and managed the development of an enterprise-level client/server automated auditing application for a major financial management company migrating from mainframe computers, db2, and FOCUS to a workgroup oriented, client/server architecture involving Windows for Workgroups, Windows NT Advanced Server, Microsoft SQL Server, Oracle, and UNIX.
+
+------------------Systems Analyst------------------
+
+Business Consultants, Inc., Washington, DC, 2013
+
+- Provided technical consulting services to the Smithsonian Institute’s Information Technology Services Group, Amnesty International, and internal research and development initiatives.
+
+- Consolidated and documented the Smithsonian Laboratory's Testing, Demonstration, and Training databases onto a single server, maximizing the use of the laboratory's computing resources.
+
+- Brought the Smithsonian Laboratory on-line with the Internet.
+
+------------------Automated Data Processor------------------
+
+US Army Infantry, Germany, 2007
+
+- Analyzed problems and ADP processes; designed, tested, and implemented software and hardware systems for an organizational operations center.
+
+- Supervised the maintenance, deployment, installation, and operation of a battalion's personnel system that monitored and controlled up to 12 platoons in a fast-paced, technically demanding environment.
+
+- Designed a maintenance reporting program that converted the labor intensive task of producing weekly status reports from a 4-day to a 2-hour process.
+
+EDUCATION:
+
+- BS, Mathematics/Computer Science, University of California, Los Angeles (UCLA), GPA: 3.57; Major GPA: 3.62
+
+SPECIALIZED DELIVERY:
+
+- Software Requirements Engineering and Management Course; Computer Applications International Corporation.
+
+- X.400 Messaging and Allied Communications Procedures-123 Profile; ComTechnologies, Inc.
+
+- GOSIP LAN Operating System Network Administration; ETC, Inc.

@@ -1,0 +1,40 @@
+Amy Millersfield
+10987 South Central Dr., Summerville, CA 09876
+H: 410-555-1234; W: 410-555-0987; amillersfield@email.com
+Objective:
+
+Client Server Systems Architect for a high technology firm.
+
+Keyword Summary:
+
+Systems Engineer. Client Server System Architect. Systems Analysis. Systems Integration. Network Administrator.
+ Database Administration. Systems Administration. Software Engineering. Troubleshooting Computing Systems. 
+ C++. Visual Basic. SQL. UNIX Shell Script. Windows. MS DOS. Windows NT. TCP/IP. OSI. Microsoft LAN Manager. 
+ Novell Netware. Project Management. Trade Studies. Consulting Beta Tester. Technical Presentations. Sales Presentations.
+  Instructor. BS Degree. Mathematics and Computer Science. UCLA. Air Force Institute of Technology. Computer Engineering.
+
+Summary of Qualifications:
+
+Nine years' experience in designing, installing, and troubleshooting computing systems; a proven track record in identifying 
+problems and developing innovative solutions.
+
+Technical Skills:
+
+- PROGRAMMING: C, C++, Visual BASIC, Pascal, SQL, OSF/Motif, UNIX Shell Script (sh, ksh, csh), BASIC, Clipper, Algol 68, and 80X86 Assembler.
+
+- OPERATING SYSTEMS: UNIX (bsd & SVr3/r4), MS Windows, MS DOS, MS Windows NT, Solaris, HP-UX, Ultrix, AIX, VAX/VMS.
+
+- NETWORKING: TCP/IP, OSI, Microsoft LAN Manager, DDN, Internet, Ethernet, Token Ring, SNA, X.25, LAN-WAN interconnection.
+
+- APPLICATIONS: Microsoft Office, Microsoft Access, Microsoft Visual C++, Microsoft Project, Microsoft Publisher, Lotus 123, Lotus Freelance, System Architect, and others.
+
+Professional Experience:
+
+Systems Engineer
+
+Computer Engineering Corporation, Los Angeles, CA, Present
+
+- Provide systems engineering, software engineering, technical consulting and marketing services as member of Systems Integration Division of software engineering consulting company.
+
+- Designed and managed development of enterprise-level client/server automated auditing application for major financial management company migrating from 
+mainframe computers, db2, and FOCUS to a workgroup oriented, client/server architecture involving Windows for Workgroups, Windows NT Advanced Server, Microsoft SQL Server, Oracle7, and UNIX.

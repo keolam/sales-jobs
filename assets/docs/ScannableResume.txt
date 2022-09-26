@@ -1,0 +1,30 @@
+Elaine R. Miller
+2349 W. 5th St., San Francisco, CA 90000
+Home: (123) 321-3210
+Fax: (123) 456-7890
+Cellular: (123) 789-1011
+Email: e.miller@thenet.com
+
+OBJECTIVE:
+- Senior Web Developer capitalizing on experience in site design, site maintenance, site management and back-end structure.
+
+EXPERIENCE:
+1 / 18 - 12 / 20: Front End Developer, The Data Corp., San Francisco, CA
+- Re-engineered Web site using NodeJS, MySQL, HTML, CSS, JavaScript, and Adobe Photoshop,
+- Installed and maintained corporate firewall using Proxy Server.
+- Maintained Web site, keeping content and design fresh and current.
+
+
+10 / 15 - 12 / 18: Web Developer, HTML Programmer, Internet.com, Los Angeles, CA
+- Administered daily operations of Web site.
+- Hard-coded site pages using DHTML, XML and JavaScript.
+- Worked on site projects with various clients.
+
+TECHNICAL SKILLS:
+- Microsoft Certified Systems Engineer +
+- Internet Product Certifications include: TCP/IP, Microsoft ASP.Net Core, PHP/ Laravel, Ruby on Rails NodeJS, Python/ Django, HTML, Adobe Photoshop, Adobe Illustrator, Pages, Adobe Acrobat.
+
+EDUCATION:
+May 2015: University of Texas, Bachelor of Science, Information Technology
+- GPA: 3.95
+- Dean's List, 8 semesters
