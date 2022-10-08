@@ -35,8 +35,8 @@ const main = async () => {
     rootDiv.innerHTML = home;
     routes = {
         '/': home,
-        '/jobs': jobs,
-        '/staff': staff
+        '/jobs.html': jobs,
+        '/staff.html': staff
     };
 };
 
