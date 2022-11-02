@@ -10,19 +10,25 @@
     <meta name="keywords" content="sales,jobs,job,openings,hawaii,honolulu,listings,sales,consultants,recruiters,recruiter,Compusearch,positions,management,search,firm,employment,agency,pharmaceutical,computer,information,technology,network,medical,engineering,construction,environmental,advertising,business,software,marketing,staffing,MRI,mri,don bishop,keiko schultz,christina cole,pacific,rim,basin,international,telecommunications,data,networking,accounting,financial,human resources,executive,industrial,retail,office,maui,big island,kauai,federal,DOD,dod,government,contract,programmer,employer,classifieds,it,IT,linked in,lnkedin,indeed">
     <title>Sales Jobs of Honolulu</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="components/header.js" type="text/javascript" defer></script>
+    <script src="components/footer.js" type="text/javascript" defer></script>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500|Raleway" rel="stylesheet">
 </head>
 
 <body>
-   
-    <div class="vert">
-        <img src="/assets/images/Honolulu.jpg" />
-        <h1>Job Listings</h1>
-        <iframe id="frame" title="job-board" src="https://www.pcrecruiter.net/pcrbin/regmenu.aspx?uid=sc%20honolulu.schonolulu" 
-             width="100%" frameborder="0"></iframe>
-    </div>
-    
+    <header-component></header-component>
+    <main>
+        <!-- Your page's content -->
+        <div class="vert">
+            <img src="/assets/images/Honolulu.jpg" />
+            <h1>Job Listings</h1>
+            <iframe id="frame" title="job-board" src="https://www.pcrecruiter.net/pcrbin/regmenu.aspx?uid=sc%20honolulu.schonolulu" width="100%"
+                frameborder="0"></iframe>
+        </div>
+    </main>
+    <footer-component></footer-component>
     <script src="app.js "></script>
+
 </body>
 
 </html>

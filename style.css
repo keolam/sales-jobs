@@ -1,10 +1,12 @@
 *{box-sizing: border-box; margin: 0; padding: 0;}
-/*[noshow]{display: !important;}*/
+[noshow]{display: !important;}
 html {
 	font-size: 100%;
     min-width: 320px;
     font-family: 'Montserrat', sans-serif;
+    height: 100%;
 }
+body {height: 100%; display: flex; flex-direction: column; overflow: scroll;}
 .horiz {display: flex; flex-direction: row;}
 .vert {display: flex; flex-direction: column;}
 .end {display: flex; justify-content: flex-end;}
@@ -17,9 +19,19 @@ html {
 .wrap {flex-wrap: wrap}
 .top-layer {z-index: 1}
 .absolute {position: absolute}
+.posRel {position: relative;}
 #header { width: 100%;}
 #footer { width: 100%; position: fixed; bottom: 0;}
-
+#frame { height: 121rem;}
+  
+body {
+  color: #333;
+  font-family: montserrat;
+}
+  
+  main {
+    flex: 1 0 auto;
+  }
 @media only screen and (max-width: 960px) {
 }
 
