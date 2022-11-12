@@ -5,8 +5,9 @@ html {
     min-width: 320px;
     font-family: 'Montserrat', sans-serif;
     height: 100%;
+    display: flex;
 }
-body {height: 100%; display: flex; flex-direction: column; overflow: scroll;}
+body {height: 100%; display: flex; flex-direction: column; overflow: scroll; width: 100%;}
 .horiz {display: flex; flex-direction: row;}
 .vert {display: flex; flex-direction: column;}
 .end {display: flex; justify-content: flex-end;}
@@ -20,18 +21,24 @@ body {height: 100%; display: flex; flex-direction: column; overflow: scroll;}
 .top-layer {z-index: 1}
 .absolute {position: absolute}
 .posRel {position: relative;}
+.page-text {max-width: 66%; margin: 4rem auto; font-size: 1.4rem;}
 #header { width: 100%;}
 #footer { width: 100%; position: fixed; bottom: 0;}
-#frame { height: 121rem;}
-  
-body {
-  color: #333;
-  font-family: montserrat;
+#frame { height: 121rem; width: 66%; border-width: .1rem; border-color: #1c3c4a; border-radius: 1rem;}
+#a {font-family: 'Plus Jakarta Sans', sans-serif;}
+#b{font-family: 'Raleway', sans-serif;}
+#c{font-family: 'Marcellus', serif;}
+
+main {
+  display:flex
 }
-  
-  main {
-    flex: 1 0 auto;
-  }
+.main {
+    display: flex;
+    width: 66%;
+    justify-content: center;
+    flex: 1 0 100%;
+}
+
 @media only screen and (max-width: 960px) {
 }
 

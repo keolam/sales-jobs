@@ -3,14 +3,14 @@ const footerTemplate = document.createElement('template');
 footerTemplate.innerHTML = `
   <style>
     footer {
-      height: 60px;
+      height: 100px;
       padding: 0 10px;
       list-style: none;
       display: flex;
       flex-shrink: 0;
       justify-content: space-between;
       align-items: center;
-      background-color: #b94418;
+      background-color: #273c53;
       color: white;
     }
 
