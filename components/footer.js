@@ -3,7 +3,7 @@ const footerTemplate = document.createElement('template');
 footerTemplate.innerHTML = `
   <style>
     footer {
-      height: 100px;
+      height: 300px;
       padding: 0 10px;
       list-style: none;
       display: flex;
@@ -16,11 +16,14 @@ footerTemplate.innerHTML = `
 
     ul {
       padding: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
     }
     
     ul li {
       list-style: none;
-      display: inline;
+     
     }
     
     a {
@@ -41,13 +44,30 @@ footerTemplate.innerHTML = `
     .social-row li a {
       margin: 0 15px;
     }
+    .horiz {
+      padding: 0;
+      width: 80%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      font-size: 1.6rem
+    }
   </style>
   <footer>
     <ul>
-      <li><a href="about.html">About</a></li>
+      <!--li><a href="about.html">About</a></li>
       <li><a href="work.html">Work</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="contact.html">Contact</a></li-->
     </ul>
+    <div class="horiz">
+      <div>
+        <p>850 Richards St., Suite 508</p> 
+        <p>Honolulu, HI 96813</p>
+      </div>
+      <div>
+        <p>Phone: 808.261.0476</p>
+      </div>
+   </div>
     <ul class="social-row">
       <li><a href="https://github.com/my-github-profile"><i class="fab fa-github"></i></a></li>
       <li><a href="https://twitter.com/my-twitter-profile"><i class="fab fa-twitter"></i></a></li>

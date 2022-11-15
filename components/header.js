@@ -12,23 +12,22 @@ headerTemplate.innerHTML = `
       align-items: center;
       flex-direction: row;
       justify-content: space-around;
-      background-color:  #0d3560;
+      background-color: #124666;
       color: white;
       font-family: 'Marcellus', serif;
     }
 
     ul {
       padding: 0;
+      display: flex;
+      flex-direction: row;
     }
     
     ul li {
       list-style: none;
-      display: inline;
+      display: flex;
+ 
       font-size: 2rem;
-    }
-
-    ul li:hover {
-      transform: scale(2.8);
     }
 
     a {
@@ -39,7 +38,7 @@ headerTemplate.innerHTML = `
     }
     
     a:hover {
-      transform: scale(1.03);
+      transform: scale(1.02);
       /*padding-bottom: 5px;
       box-shadow: inset 0 -2px 0 0 #fff;*/
     }
@@ -65,11 +64,11 @@ headerTemplate.innerHTML = `
           <h4> of Honolulu</h4>
         </a>
       </div>
-      <div>
+      <div class="links">
       <ul>
-        <li><a href="jobs.html">Job Listings</a></li>
-        <li><a href="resources.html">Resources</a></li>
-        <li><a href="staff.html">Our Staff</a></li>
+        <li><a href="/">Job Listings</a></li>
+        <li><a href="/">Resources</a></li>
+        <li><a href="/">Our Staff</a></li>
       </ul>
       </div>
     </nav>

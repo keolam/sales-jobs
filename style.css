@@ -21,7 +21,7 @@ body {height: 100%; display: flex; flex-direction: column; overflow: scroll; wid
 .top-layer {z-index: 1}
 .absolute {position: absolute}
 .posRel {position: relative;}
-.page-text {max-width: 66%; margin: 4rem auto; font-size: 1.4rem;}
+.page-text {max-width: 60%; margin: 4rem auto; font-size: 1.4rem; line-height: 3rem;}
 #header { width: 100%;}
 #footer { width: 100%; position: fixed; bottom: 0;}
 #frame { height: 121rem; width: 66%; border-width: .1rem; border-color: #1c3c4a; border-radius: 1rem;}
@@ -30,8 +30,12 @@ body {height: 100%; display: flex; flex-direction: column; overflow: scroll; wid
 #c{font-family: 'Marcellus', serif;}
 
 main {
-  display:flex
+  display:flex;
+  text-align: center;
+  color:#124666;
+  
 }
+
 .main {
     display: flex;
     width: 66%;
@@ -39,6 +43,29 @@ main {
     flex: 1 0 100%;
 }
 
+.page-text ul li {
+text-align: left;
+  margin-left: 2.6rem;
+  line-height: 3rem;
+
+}
+
+.page-text h1{
+padding-top: 1  rem;
+padding-bottom: 2rem;
+}
+
+#pic2 {
+  max-width: 60rem;
+}
+#para1 {
+  margin-left: 6rem;
+  max-width: 38%;
+}
+
+#pic2 img {
+  width: 100%;
+}
 @media only screen and (max-width: 960px) {
 }
 
